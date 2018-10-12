@@ -5,6 +5,6 @@ Essa é a sequencia do curso de Introdução a Orientação a Objetos.
 * Herança
 * Polimorfismo 
 * Duck typing e modelo de dados
-* Herança Múltipla
+* Herança Múltipla.
 
 Ao contrário do curso introdutório, não criaremos uma aplição mas trabalharemos com trechos de código para melhor entender os conceitos. 

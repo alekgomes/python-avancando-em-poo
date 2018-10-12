@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 class Filme:
 	def __init__(self, nome, ano, duracao):
 		self._nome = nome
